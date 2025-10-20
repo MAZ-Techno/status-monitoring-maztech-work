@@ -7,47 +7,129 @@ branch: master
 sites:
   - name: Avicenne - LUX
     url: https://avicenne.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
   - name: Mosaique - LUX
     url: https://mosaiquelux.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
   - name: Iredi - LUX
     url: https://iredi.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
   - name: The knowledge venue - EGY
     url: https://theknowledgevenue.com/
+    location: Egypt
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Luxembourg University Press - LUX
     url: https://unipress.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Luxor Library - LUX
     url: https://luxorlibrary.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Grocify Shop - LUX
     url: https://grocify.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Luxy Tech - LUX
     url: https://luxytech.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
   - name: Lissane School - LUX
     url: https://lissane.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: AFMM Mosque - LUX
     url: https://afmm.lu/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
   - name: Manual Therapy Home - LUX
     url: https://manualtherapyhome.com/
+    location: Luxembourg
+    assignees:
+      - aibrahim89
+      - MostafaAshrySOPC
   - name: Joo & M Logistics - EGY
     url: https://joo-m-logistics.com/
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Islam - Joo & M Logistics - EGY
     url: https://islam.joo-m-logistics.com/
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: SOPC RH - EGY
     url: https://sopceg.com/
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: SUEZ PMC - EGY
     url: https://suezpmc.com/
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Portal SUEZ PMC - EGY
     url: https://portal.suezpmc.com/
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Minaharis - EGY
     url: https://minaharis.com/
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Qasimi Realestate Develop - EGY
     url: https://qasimidevelop.com
+    location: Egypt
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: Shabana Gold - EGY
     url: http://app.shabanagold.com/
+    location: Egypt
     __dangerous__insecure: true
+    assignees:
+      - MostafaAshrySOPC
+      - Aymanabelmoaty
   - name: IPv6 Cloudflare DNS
     url: one.one.one.one
     port: 53
     check: tcp-ping
+    assignees:
+      - aibrahim89
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -55,12 +137,15 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status-monitoring-maztech-work
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: MAZ status
+  theme: ocean
+  introTitle: "**MAZ** is using Uppwork (the open-source) to have uptime monitor and status page, Hosted on GitHub/Pages."
+  introMessage: This is a sample status page which uses **real-time** data from [MAZ-Techno GitHub repository](https://github.com/MAZ-Techno/status-monitoring-maztech-work). Resources used — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
-      href: /
+      href: https://maz-techno.github.io/status-monitoring-maztech-work
+    - title: MAZ-Techno
+      href: https://maztechnologies.net/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
