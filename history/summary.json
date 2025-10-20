@@ -329,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.shabanagold.com.ico",
     "slug": "shabana-gold-egy",
     "status": "down",
-    "uptime": "77.89%",
-    "uptimeDay": "77.89%",
-    "uptimeWeek": "77.89%",
-    "uptimeMonth": "77.89%",
-    "uptimeYear": "77.89%",
+    "uptime": "77.67%",
+    "uptimeDay": "77.67%",
+    "uptimeWeek": "77.67%",
+    "uptimeMonth": "77.67%",
+    "uptimeYear": "77.67%",
     "time": 834,
     "timeDay": 834,
     "timeWeek": 834,
     "timeMonth": 834,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2025-10-20": 20
+      "2025-10-20": 21
     }
   },
   {
