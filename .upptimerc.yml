@@ -42,12 +42,11 @@ sites:
   - name: Qasimi Realestate Develop - EGY
     url: https://qasimidevelop.com
   - name: Shabana Gold - EGY
-    url: https://app.shabanagold.com/
+    url: http://app.shabanagold.com/
   - name: IPv6 Cloudflare DNS
     url: one.one.one.one
     port: 53
     check: tcp-ping
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
