@@ -8,24 +8,28 @@ sites:
   - name: Avicenne - LUX
     url: https://avicenne.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
   - name: Mosaique - LUX
     url: https://mosaiquelux.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
   - name: Iredi - LUX
     url: https://iredi.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
   - name: The knowledge venue - EGY
     url: https://theknowledgevenue.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
@@ -33,6 +37,7 @@ sites:
   - name: Luxembourg University Press - LUX
     url: https://unipress.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
@@ -40,6 +45,7 @@ sites:
   - name: Luxor Library - LUX
     url: https://luxorlibrary.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
@@ -47,6 +53,7 @@ sites:
   - name: Grocify Shop - LUX
     url: https://grocify.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
@@ -54,11 +61,13 @@ sites:
   - name: Luxy Tech - LUX
     url: https://luxytech.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
   - name: Lissane School - LUX
     url: https://lissane.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
@@ -66,61 +75,70 @@ sites:
   - name: AFMM Mosque - LUX
     url: https://afmm.lu/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
   - name: Manual Therapy Home - LUX
     url: https://manualtherapyhome.com/
     location: Luxembourg
+    skipDeleteIssues: true
     assignees:
       - aibrahim89
       - MostafaAshrySOPC
   - name: Joo & M Logistics - EGY
     url: https://joo-m-logistics.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Islam - Joo & M Logistics - EGY
     url: https://islam.joo-m-logistics.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: SOPC RH - EGY
     url: https://sopceg.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: SUEZ PMC - EGY
     url: https://suezpmc.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Portal SUEZ PMC - EGY
     url: https://portal.suezpmc.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Minaharis - EGY
     url: https://minaharis.com/
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Qasimi Realestate Develop - EGY
     url: https://qasimidevelop.com
     location: Egypt
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Shabana Gold - EGY
     url: http://app.shabanagold.com/
     location: Egypt
-    __dangerous__insecure: true
+    skipDeleteIssues: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
@@ -138,7 +156,7 @@ status-website:
   baseUrl: /status-monitoring-maztech-work
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MAZ status
-  theme: ocean
+  theme: light
   introTitle: "**MAZ** is using Uppwork (the open-source) to have uptime monitor and status page, Hosted on GitHub/Pages."
   introMessage: This is a sample status page which uses **real-time** data from [MAZ-Techno GitHub repository](https://github.com/MAZ-Techno/status-monitoring-maztech-work). Resources used — just GitHub Actions, Issues, and Pages.
   navbar:
