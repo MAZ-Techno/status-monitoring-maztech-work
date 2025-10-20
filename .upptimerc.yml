@@ -7,12 +7,28 @@ branch: master
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Avicenne - LUX
+    url: https://avicenne.lu/
+  - name: Mosaique - LUX
+    url: https://mosaiquelux.lu/
+  - name: Iredi - LUX
+    url: https://iredi.lu/
+  - name: The knowledge venue - EGY
+    url: https://theknowledgevenue.com/
+  - name: Luxembourg University Press - LUX
+    url: https://unipress.lu/
+  - name: Luxor Library - LUX
+    url: https://luxorlibrary.lu/
+  - name: Grocify Shop - LUX
+    url: https://grocify.lu/
+  - name: Luxy Tech - LUX
+    url: https://luxytech.lu/
+  - name: Lissane School - LUX
+    url: https://lissane.lu/
+  - name: AFMM Mosque - LUX
+    url: https://afmm.lu/
+  - name: Manual Therapy Home - LUX
+    url: https://manualtherapyhome.com/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
