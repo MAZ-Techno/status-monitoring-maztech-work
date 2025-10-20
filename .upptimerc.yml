@@ -5,8 +5,6 @@ user-agent: upptime
 branch: master
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Avicenne - LUX
     url: https://avicenne.lu/
   - name: Mosaique - LUX
@@ -29,10 +27,26 @@ sites:
     url: https://afmm.lu/
   - name: Manual Therapy Home - LUX
     url: https://manualtherapyhome.com/
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
+  - name: Joo & M Logistics - EGY
+    url: https://joo-m-logistics.com/
+  - name: Islam - Joo & M Logistics - EGY
+    url: https://islam.joo-m-logistics.com/
+  - name: SOPC RH - EGY
+    url: https://sopceg.com/
+  - name: SUEZ PMC - EGY
+    url: https://suezpmc.com/
+  - name: Portal SUEZ PMC - EGY
+    url: https://portal.suezpmc.com/
+  - name: Minaharis - EGY
+    url: https://minaharis.com/
+  - name: Qasimi Realestate Develop - EGY
+    url: https://qasimidevelop.com
+  - name: Shabana Gold - EGY
+    url: https://app.shabanagold.com/
+  - name: IPv6 Cloudflare DNS
+    url: one.one.one.one
+    port: 53
+    check: tcp-ping
     ipv6: true
 
 status-website:
