@@ -43,6 +43,7 @@ sites:
     url: https://qasimidevelop.com
   - name: Shabana Gold - EGY
     url: http://app.shabanagold.com/
+    __dangerous__insecure: true
   - name: IPv6 Cloudflare DNS
     url: one.one.one.one
     port: 53
