@@ -137,7 +137,7 @@ sites:
       - Aymanabelmoaty
   - name: Shabana Gold - EGY
     url: http://app.shabanagold.com/
-    _dangerous_insecure: true
+    __dangerous__insecure: true
     location: Egypt
     skipDeleteIssues: true
     assignees:
