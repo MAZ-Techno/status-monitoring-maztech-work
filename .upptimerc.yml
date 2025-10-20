@@ -3,144 +3,145 @@ owner: MAZ-Techno # Your GitHub organization or username, where this repository 
 repo: status-monitoring-maztech-work # The name of this repository
 user-agent: upptime
 branch: master
+#skipDeleteIssues: true
 
 sites:
   - name: Avicenne - LUX
     url: https://avicenne.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
   - name: Mosaique - LUX
     url: https://mosaiquelux.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
   - name: Iredi - LUX
     url: https://iredi.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
   - name: The knowledge venue - EGY
     url: https://theknowledgevenue.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Luxembourg University Press - LUX
     url: https://unipress.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Luxor Library - LUX
     url: https://luxorlibrary.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Grocify Shop - LUX
     url: https://grocify.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Luxy Tech - LUX
     url: https://luxytech.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
   - name: Lissane School - LUX
     url: https://lissane.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: AFMM Mosque - LUX
     url: https://afmm.lu/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
   - name: Manual Therapy Home - LUX
     url: https://manualtherapyhome.com/
     location: Luxembourg
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - aibrahim89
       - MostafaAshrySOPC
   - name: Joo & M Logistics - EGY
     url: https://joo-m-logistics.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Islam - Joo & M Logistics - EGY
     url: https://islam.joo-m-logistics.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: SOPC RH - EGY
     url: https://sopceg.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: SUEZ PMC - EGY
     url: https://suezpmc.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Portal SUEZ PMC - EGY
     url: https://portal.suezpmc.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Minaharis - EGY
     url: https://minaharis.com/
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Qasimi Realestate Develop - EGY
     url: https://qasimidevelop.com
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
   - name: Shabana Gold - EGY
     url: http://app.shabanagold.com/
     __dangerous__insecure: true
     location: Egypt
-    skipDeleteIssues: true
     assignees:
+      - AbdallahCoptan
       - MostafaAshrySOPC
       - Aymanabelmoaty
       - aibrahim89
