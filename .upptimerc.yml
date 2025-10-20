@@ -139,6 +139,7 @@ sites:
     url: http://app.shabanagold.com/
     location: Egypt
     skipDeleteIssues: true
+    _dangerous_insecure: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
