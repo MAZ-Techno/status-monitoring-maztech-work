@@ -170,6 +170,10 @@ status-website:
       href: https://maztechnologies.net/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: All Incidents
+      href: /incidents
+    - title: All GH issues
+      href: https://github.com/MAZ-Techno/status-monitoring-maztech-work/issues?q=is%3Aissue
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
