@@ -137,12 +137,13 @@ sites:
       - Aymanabelmoaty
   - name: Shabana Gold - EGY
     url: http://app.shabanagold.com/
+    _dangerous_insecure: true
     location: Egypt
     skipDeleteIssues: true
-    _dangerous_insecure: true
     assignees:
       - MostafaAshrySOPC
       - Aymanabelmoaty
+      - aibrahim89
   - name: IPv6 Cloudflare DNS
     url: one.one.one.one
     port: 53
