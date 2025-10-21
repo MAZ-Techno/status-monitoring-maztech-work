@@ -152,12 +152,6 @@ sites:
     assignees:
       - aibrahim89
 
-notifications:
-  - type: email
-    to: "abdallah.cisco@gmail.com"
-  - type: microsoft-teams
-    url: ${{ secrets.TEAMS_WEBHOOK_URL }}
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
