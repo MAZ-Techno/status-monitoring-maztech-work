@@ -176,7 +176,7 @@ status-website:
       href: https://github.com/MAZ-Techno/status-monitoring-maztech-work/issues?q=is%3Aissue
 
 i18n:
-  footer: "This page is hosted in MAZ Techno [GH]($REPO), All rights reserved. <script>document.write('© ' + new Date().getFullYear() + ' MAZ Techno')</script>."
+  footer: "This page is hosted in MAZ Techno [GH]($REPO), All rights reserved. © 2025 MAZ Techno."
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
