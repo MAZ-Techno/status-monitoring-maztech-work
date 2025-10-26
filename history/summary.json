@@ -111,19 +111,19 @@
     "url": "https://luxorlibrary.lu/",
     "icon": "https://icons.duckduckgo.com/ip3/luxorlibrary.lu.ico",
     "slug": "luxor-library-lux",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 925,
-    "timeDay": 886,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 918,
+    "timeDay": 829,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-10-26": 11
+      "2025-10-26": 26
     }
   },
   {
