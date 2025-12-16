@@ -69,6 +69,9 @@ sites:
   - name: AquaLink - EGY (prod)
     url: https://aqualink-clearance.com/
     location: Egypt
+  - name: Perfect Logistics - EGY (prod)
+    url: https://perfectlgs.com/
+    location: Egypt
 status-website:
   cname: status.maz.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
