@@ -66,6 +66,9 @@ sites:
     url: one.one.one.one
     port: 53
     check: tcp-ping
+  - name: AquaLink - EGY (prod)
+    url: https://aqualink-clearance.com/
+    location: Egypt
 status-website:
   cname: status.maz.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
