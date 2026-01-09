@@ -1,7 +1,7 @@
 url: https://grocify.lu/
-status: down
-code: 503
-responseTime: 775
-lastUpdated: 2026-01-09T09:52:07.804Z
+status: up
+code: 200
+responseTime: 1333
+lastUpdated: 2026-01-09T10:00:25.133Z
 startTime: 2025-10-20T11:22:09.148Z
 generator: Upptime <https://github.com/upptime/upptime>
