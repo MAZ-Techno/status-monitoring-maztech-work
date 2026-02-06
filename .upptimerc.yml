@@ -72,6 +72,9 @@ sites:
   - name: Perfect Logistics - EGY (prod)
     url: https://perfectlgs.com/
     location: Egypt
+  - name: SaveMySchool (prod)
+    url: https://savemyschool.lu
+    location: Luxembourg
 status-website:
   cname: status.maz.ovh
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
