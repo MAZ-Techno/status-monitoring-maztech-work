@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/avicenne.lu.ico",
     "slug": "avicenne-lux",
     "status": "down",
-    "uptime": "45.84%",
+    "uptime": "45.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.84%",
+    "uptimeYear": "45.80%",
     "time": 777,
     "timeDay": 375,
     "timeWeek": 293,
@@ -27,7 +27,7 @@
       "2025-12-21": 8,
       "2025-12-25": 17,
       "2026-01-18": 16,
-      "2026-06-07": 145,
+      "2026-06-07": 411,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 1440,
@@ -400,13 +400,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/luxytech.lu.ico",
     "slug": "luxy-tech-lux",
     "status": "down",
-    "uptime": "98.33%",
-    "uptimeDay": "49.82%",
-    "uptimeWeek": "75.51%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "98.33%",
+    "uptime": "98.25%",
+    "uptimeDay": "44.61%",
+    "uptimeWeek": "72.88%",
+    "uptimeMonth": "90.21%",
+    "uptimeYear": "98.25%",
     "time": 378,
-    "timeDay": 187,
+    "timeDay": 164,
     "timeWeek": 179,
     "timeMonth": 213,
     "timeYear": 378,
@@ -442,7 +442,7 @@
       "2026-06-04": 555,
       "2026-06-05": 611,
       "2026-06-06": 637,
-      "2026-06-07": 146
+      "2026-06-07": 411
     }
   },
   {
@@ -450,17 +450,17 @@
     "url": "https://lissane.lu/",
     "icon": "https://icons.duckduckgo.com/ip3/lissane.lu.ico",
     "slug": "lissane-school-lux",
-    "status": "down",
-    "uptime": "95.88%",
-    "uptimeDay": "85.27%",
-    "uptimeWeek": "95.82%",
-    "uptimeMonth": "98.66%",
-    "uptimeYear": "95.88%",
-    "time": 1582,
-    "timeDay": 1741,
-    "timeWeek": 1696,
-    "timeMonth": 1804,
-    "timeYear": 1582,
+    "status": "up",
+    "uptime": "95.81%",
+    "uptimeDay": "81.49%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "98.10%",
+    "uptimeYear": "95.81%",
+    "time": 1581,
+    "timeDay": 1676,
+    "timeWeek": 1677,
+    "timeMonth": 1796,
+    "timeYear": 1581,
     "dailyMinutesDown": {
       "2025-10-25": 9,
       "2025-10-27": 11,
@@ -521,7 +521,7 @@
       "2026-05-30": 56,
       "2026-06-03": 162,
       "2026-06-06": 237,
-      "2026-06-07": 22
+      "2026-06-07": 267
     }
   },
   {
@@ -530,13 +530,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/afmm.lu.ico",
     "slug": "afmm-mosque-lux",
     "status": "down",
-    "uptime": "96.89%",
-    "uptimeDay": "55.59%",
-    "uptimeWeek": "69.57%",
-    "uptimeMonth": "86.09%",
-    "uptimeYear": "96.89%",
+    "uptime": "96.81%",
+    "uptimeDay": "50.40%",
+    "uptimeWeek": "66.94%",
+    "uptimeMonth": "85.49%",
+    "uptimeYear": "96.81%",
     "time": 1081,
-    "timeDay": 969,
+    "timeDay": 984,
     "timeWeek": 1128,
     "timeMonth": 1013,
     "timeYear": 1081,
@@ -584,7 +584,7 @@
       "2026-06-04": 545,
       "2026-06-05": 591,
       "2026-06-06": 544,
-      "2026-06-07": 146
+      "2026-06-07": 411
     }
   },
   {
@@ -593,11 +593,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/manualtherapyhome.com.ico",
     "slug": "manual-therapy-home-lux",
     "status": "down",
-    "uptime": "96.96%",
-    "uptimeDay": "56.60%",
-    "uptimeWeek": "70.34%",
-    "uptimeMonth": "86.57%",
-    "uptimeYear": "96.96%",
+    "uptime": "96.88%",
+    "uptimeDay": "51.41%",
+    "uptimeWeek": "67.71%",
+    "uptimeMonth": "85.96%",
+    "uptimeYear": "96.88%",
     "time": 1000,
     "timeDay": 941,
     "timeWeek": 903,
@@ -647,7 +647,7 @@
       "2026-06-04": 535,
       "2026-06-05": 571,
       "2026-06-06": 525,
-      "2026-06-07": 146
+      "2026-06-07": 411
     }
   },
   {
@@ -656,13 +656,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/joo-m-logistics.com.ico",
     "slug": "joo-and-m-logistics-egy",
     "status": "down",
-    "uptime": "97.32%",
-    "uptimeDay": "51.86%",
-    "uptimeWeek": "69.68%",
-    "uptimeMonth": "86.58%",
-    "uptimeYear": "97.32%",
+    "uptime": "97.24%",
+    "uptimeDay": "46.68%",
+    "uptimeWeek": "67.05%",
+    "uptimeMonth": "85.97%",
+    "uptimeYear": "97.24%",
     "time": 1058,
-    "timeDay": 800,
+    "timeDay": 666,
     "timeWeek": 947,
     "timeMonth": 1135,
     "timeYear": 1058,
@@ -720,7 +720,7 @@
       "2026-06-04": 535,
       "2026-06-05": 571,
       "2026-06-06": 592,
-      "2026-06-07": 146
+      "2026-06-07": 411
     }
   },
   {
@@ -729,13 +729,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/islam.joo-m-logistics.com.ico",
     "slug": "islam-joo-and-m-logistics-egy",
     "status": "down",
-    "uptime": "97.33%",
-    "uptimeDay": "51.91%",
-    "uptimeWeek": "69.72%",
-    "uptimeMonth": "86.73%",
-    "uptimeYear": "97.33%",
+    "uptime": "97.25%",
+    "uptimeDay": "46.73%",
+    "uptimeWeek": "67.08%",
+    "uptimeMonth": "86.12%",
+    "uptimeYear": "97.25%",
     "time": 826,
-    "timeDay": 626,
+    "timeDay": 525,
     "timeWeek": 727,
     "timeMonth": 850,
     "timeYear": 826,
@@ -793,7 +793,7 @@
       "2026-06-04": 535,
       "2026-06-05": 571,
       "2026-06-06": 591,
-      "2026-06-07": 146
+      "2026-06-07": 411
     }
   },
   {
@@ -917,13 +917,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/qasimidevelop.com.ico",
     "slug": "qasimi-realestate-develop-egy",
     "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "57.67%",
-    "uptimeWeek": "71.21%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "97.02%",
+    "uptime": "96.94%",
+    "uptimeDay": "52.48%",
+    "uptimeWeek": "68.58%",
+    "uptimeMonth": "86.49%",
+    "uptimeYear": "96.94%",
     "time": 623,
-    "timeDay": 489,
+    "timeDay": 472,
     "timeWeek": 502,
     "timeMonth": 525,
     "timeYear": 623,
@@ -971,7 +971,7 @@
       "2026-06-04": 526,
       "2026-06-05": 545,
       "2026-06-06": 503,
-      "2026-06-07": 146
+      "2026-06-07": 411
     }
   },
   {
@@ -1056,13 +1056,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/perfectlgs.com.ico",
     "slug": "perfect-logistics-egy-prod",
     "status": "down",
-    "uptime": "96.50%",
-    "uptimeDay": "53.30%",
-    "uptimeWeek": "70.61%",
-    "uptimeMonth": "87.09%",
-    "uptimeYear": "96.50%",
+    "uptime": "96.39%",
+    "uptimeDay": "48.12%",
+    "uptimeWeek": "67.98%",
+    "uptimeMonth": "86.49%",
+    "uptimeYear": "96.39%",
     "time": 1077,
-    "timeDay": 828,
+    "timeDay": 728,
     "timeWeek": 935,
     "timeMonth": 1173,
     "timeYear": 1077,
@@ -1120,7 +1120,7 @@
       "2026-06-04": 526,
       "2026-06-05": 544,
       "2026-06-06": 566,
-      "2026-06-07": 146
+      "2026-06-07": 412
     }
   },
   {
@@ -1129,13 +1129,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/savemyschool.lu.ico",
     "slug": "save-my-school-prod",
     "status": "down",
-    "uptime": "94.49%",
-    "uptimeDay": "59.05%",
-    "uptimeWeek": "72.05%",
-    "uptimeMonth": "87.59%",
-    "uptimeYear": "94.49%",
+    "uptime": "94.35%",
+    "uptimeDay": "53.87%",
+    "uptimeWeek": "69.42%",
+    "uptimeMonth": "86.99%",
+    "uptimeYear": "94.35%",
     "time": 1007,
-    "timeDay": 1186,
+    "timeDay": 1011,
     "timeWeek": 1033,
     "timeMonth": 1031,
     "timeYear": 1007,
@@ -1183,7 +1183,7 @@
       "2026-06-04": 516,
       "2026-06-05": 527,
       "2026-06-06": 475,
-      "2026-06-07": 146
+      "2026-06-07": 412
     }
   }
 ]
