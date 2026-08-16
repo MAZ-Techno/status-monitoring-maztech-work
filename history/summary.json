@@ -27,7 +27,7 @@
       "2025-12-21": 8,
       "2025-12-25": 17,
       "2026-01-18": 16,
-      "2026-08-16": 1294,
+      "2026-08-16": 1298,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -465,7 +465,7 @@
       "2026-04-21": 98,
       "2026-04-30": 97,
       "2026-06-06": 28,
-      "2026-08-16": 1294,
+      "2026-08-16": 1298,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -531,15 +531,15 @@
     "url": "https://luxytech.lu/",
     "icon": "https://icons.duckduckgo.com/ip3/luxytech.lu.ico",
     "slug": "luxy-tech-lux",
-    "status": "down",
+    "status": "up",
     "uptime": "97.47%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "84.33%",
+    "uptimeDay": "93.17%",
+    "uptimeWeek": "84.30%",
     "uptimeMonth": "86.47%",
     "uptimeYear": "97.47%",
     "time": 355,
-    "timeDay": 177,
-    "timeWeek": 490,
+    "timeDay": 241,
+    "timeWeek": 488,
     "timeMonth": 420,
     "timeYear": 355,
     "dailyMinutesDown": {
@@ -591,7 +591,7 @@
       "2026-08-13": 290,
       "2026-08-14": 259,
       "2026-08-15": 164,
-      "2026-08-16": 97
+      "2026-08-16": 99
     }
   },
   {
@@ -689,16 +689,16 @@
     "url": "https://afmm.lu/",
     "icon": "https://icons.duckduckgo.com/ip3/afmm.lu.ico",
     "slug": "afmm-mosque-lux",
-    "status": "down",
-    "uptime": "97.69%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "86.01%",
-    "uptimeMonth": "87.87%",
-    "uptimeYear": "97.69%",
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "94.17%",
+    "uptimeWeek": "85.99%",
+    "uptimeMonth": "87.86%",
+    "uptimeYear": "97.68%",
     "time": 1055,
-    "timeDay": 1134,
-    "timeWeek": 936,
-    "timeMonth": 951,
+    "timeDay": 1054,
+    "timeWeek": 931,
+    "timeMonth": 950,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2026-06-17": 555,
@@ -750,7 +750,7 @@
       "2026-08-13": 266,
       "2026-08-14": 195,
       "2026-08-15": 145,
-      "2026-08-16": 82
+      "2026-08-16": 84
     }
   },
   {
@@ -758,16 +758,16 @@
     "url": "https://manualtherapyhome.com/",
     "icon": "https://icons.duckduckgo.com/ip3/manualtherapyhome.com.ico",
     "slug": "manual-therapy-home-lux",
-    "status": "down",
+    "status": "up",
     "uptime": "97.85%",
-    "uptimeDay": "95.33%",
-    "uptimeWeek": "86.69%",
-    "uptimeMonth": "88.48%",
+    "uptimeDay": "95.18%",
+    "uptimeWeek": "86.67%",
+    "uptimeMonth": "88.47%",
     "uptimeYear": "97.85%",
     "time": 983,
-    "timeDay": 1000,
-    "timeWeek": 946,
-    "timeMonth": 932,
+    "timeDay": 962,
+    "timeWeek": 943,
+    "timeMonth": 931,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2026-06-17": 277,
@@ -818,7 +818,7 @@
       "2026-08-13": 241,
       "2026-08-14": 234,
       "2026-08-15": 127,
-      "2026-08-16": 67
+      "2026-08-16": 69
     }
   },
   {
@@ -826,16 +826,16 @@
     "url": "https://joo-m-logistics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/joo-m-logistics.com.ico",
     "slug": "joo-and-m-logistics-egy",
-    "status": "down",
+    "status": "up",
     "uptime": "97.65%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "87.63%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "87.61%",
     "uptimeMonth": "88.34%",
     "uptimeYear": "97.65%",
     "time": 1069,
-    "timeDay": 1099,
-    "timeWeek": 1516,
-    "timeMonth": 1408,
+    "timeDay": 1145,
+    "timeWeek": 1508,
+    "timeMonth": 1407,
     "timeYear": 1069,
     "dailyMinutesDown": {
       "2026-06-15": 501,
@@ -886,7 +886,7 @@
       "2026-08-13": 219,
       "2026-08-14": 243,
       "2026-08-15": 107,
-      "2026-08-16": 52
+      "2026-08-16": 54
     }
   },
   {
@@ -894,16 +894,16 @@
     "url": "https://islam.joo-m-logistics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/islam.joo-m-logistics.com.ico",
     "slug": "islam-joo-and-m-logistics-egy",
-    "status": "down",
-    "uptime": "97.72%",
-    "uptimeDay": "97.34%",
-    "uptimeWeek": "88.73%",
+    "status": "up",
+    "uptime": "97.71%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "88.71%",
     "uptimeMonth": "88.98%",
-    "uptimeYear": "97.72%",
+    "uptimeYear": "97.71%",
     "time": 834,
-    "timeDay": 785,
-    "timeWeek": 1037,
-    "timeMonth": 1012,
+    "timeDay": 804,
+    "timeWeek": 1031,
+    "timeMonth": 1011,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-06-15": 501,
@@ -954,7 +954,7 @@
       "2026-08-13": 199,
       "2026-08-14": 233,
       "2026-08-15": 88,
-      "2026-08-16": 38
+      "2026-08-16": 40
     }
   },
   {
@@ -1177,7 +1177,7 @@
       "2026-06-23": 5,
       "2026-06-25": 131,
       "2026-06-26": 63,
-      "2026-08-16": 1295,
+      "2026-08-16": 1298,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1319,16 +1319,16 @@
     "url": "https://perfectlgs.com/",
     "icon": "https://icons.duckduckgo.com/ip3/perfectlgs.com.ico",
     "slug": "perfect-logistics-egy-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "97.29%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "89.62%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "89.82%",
+    "uptimeMonth": "89.61%",
     "uptimeYear": "97.29%",
     "time": 1090,
-    "timeDay": 1283,
-    "timeWeek": 1459,
-    "timeMonth": 1433,
+    "timeDay": 1225,
+    "timeWeek": 1445,
+    "timeMonth": 1429,
     "timeYear": 1090,
     "dailyMinutesDown": {
       "2026-06-15": 490,
@@ -1379,7 +1379,7 @@
       "2026-08-13": 181,
       "2026-08-14": 222,
       "2026-08-15": 68,
-      "2026-08-16": 24
+      "2026-08-16": 27
     }
   },
   {
@@ -1387,17 +1387,17 @@
     "url": "https://savemyschool.lu",
     "icon": "https://icons.duckduckgo.com/ip3/savemyschool.lu.ico",
     "slug": "save-my-school-prod",
-    "status": "down",
+    "status": "up",
     "uptime": "97.08%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "91.53%",
-    "uptimeMonth": "91.29%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "91.50%",
+    "uptimeMonth": "91.28%",
     "uptimeYear": "97.08%",
-    "time": 1010,
-    "timeDay": 867,
-    "timeWeek": 929,
-    "timeMonth": 1022,
-    "timeYear": 1010,
+    "time": 1009,
+    "timeDay": 808,
+    "timeWeek": 918,
+    "timeMonth": 1018,
+    "timeYear": 1009,
     "dailyMinutesDown": {
       "2026-06-17": 507,
       "2026-06-18": 675,
@@ -1447,7 +1447,7 @@
       "2026-08-13": 162,
       "2026-08-14": 154,
       "2026-08-15": 49,
-      "2026-08-16": 9
+      "2026-08-16": 12
     }
   }
 ]
