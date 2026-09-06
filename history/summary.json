@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/avicenne.lu.ico",
     "slug": "avicenne-lux",
     "status": "down",
-    "uptime": "32.84%",
+    "uptime": "32.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.84%",
+    "uptimeYear": "32.83%",
     "time": 693,
     "timeDay": 0,
     "timeWeek": 0,
@@ -27,7 +27,7 @@
       "2025-12-21": 8,
       "2025-12-25": 17,
       "2026-01-18": 16,
-      "2026-09-06": 43,
+      "2026-09-06": 91,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -259,7 +259,7 @@
     "uptimeYear": "99.85%",
     "time": 737,
     "timeDay": 458,
-    "timeWeek": 687,
+    "timeWeek": 683,
     "timeMonth": 660,
     "timeYear": 737,
     "dailyMinutesDown": {
@@ -293,7 +293,7 @@
     "uptimeYear": "99.86%",
     "time": 745,
     "timeDay": 545,
-    "timeWeek": 694,
+    "timeWeek": 700,
     "timeMonth": 705,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -328,7 +328,7 @@
     "uptimeYear": "99.55%",
     "time": 1676,
     "timeDay": 871,
-    "timeWeek": 1083,
+    "timeWeek": 1027,
     "timeMonth": 981,
     "timeYear": 1676,
     "dailyMinutesDown": {
@@ -373,7 +373,7 @@
     "uptimeYear": "99.78%",
     "time": 1382,
     "timeDay": 994,
-    "timeWeek": 1319,
+    "timeWeek": 1323,
     "timeMonth": 1275,
     "timeYear": 1382,
     "dailyMinutesDown": {
@@ -416,7 +416,7 @@
     "uptimeYear": "99.79%",
     "time": 997,
     "timeDay": 869,
-    "timeWeek": 910,
+    "timeWeek": 915,
     "timeMonth": 928,
     "timeYear": 997,
     "dailyMinutesDown": {
@@ -450,11 +450,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grocify.lu.ico",
     "slug": "grocify-shop-lux",
     "status": "down",
-    "uptime": "75.07%",
+    "uptime": "75.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.07%",
+    "uptimeYear": "75.06%",
     "time": 1536,
     "timeDay": 0,
     "timeWeek": 0,
@@ -486,7 +486,7 @@
       "2026-04-21": 98,
       "2026-04-30": 97,
       "2026-06-06": 28,
-      "2026-09-06": 44,
+      "2026-09-06": 92,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -574,14 +574,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/luxytech.lu.ico",
     "slug": "luxy-tech-lux",
     "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "96.81%",
-    "uptimeMonth": "89.01%",
-    "uptimeYear": "98.26%",
+    "uptime": "98.25%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "88.91%",
+    "uptimeYear": "98.25%",
     "time": 369,
     "timeDay": 57,
-    "timeWeek": 293,
+    "timeWeek": 224,
     "timeMonth": 478,
     "timeYear": 369,
     "dailyMinutesDown": {
@@ -621,7 +621,7 @@
       "2026-08-29": 222,
       "2026-09-02": 214,
       "2026-09-03": 104,
-      "2026-09-06": 3
+      "2026-09-06": 51
     }
   },
   {
@@ -637,7 +637,7 @@
     "uptimeYear": "96.76%",
     "time": 1640,
     "timeDay": 1367,
-    "timeWeek": 1844,
+    "timeWeek": 1863,
     "timeMonth": 1821,
     "timeYear": 1640,
     "dailyMinutesDown": {
@@ -721,14 +721,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/afmm.lu.ico",
     "slug": "afmm-mosque-lux",
     "status": "down",
-    "uptime": "98.47%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "90.38%",
-    "uptimeYear": "98.47%",
+    "uptime": "98.46%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "90.28%",
+    "uptimeYear": "98.46%",
     "time": 1043,
     "timeDay": 53,
-    "timeWeek": 698,
+    "timeWeek": 686,
     "timeMonth": 895,
     "timeYear": 1043,
     "dailyMinutesDown": {
@@ -770,7 +770,7 @@
       "2026-08-29": 217,
       "2026-09-02": 205,
       "2026-09-03": 99,
-      "2026-09-06": 2
+      "2026-09-06": 50
     }
   },
   {
@@ -779,14 +779,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/manualtherapyhome.com.ico",
     "slug": "manual-therapy-home-lux",
     "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "97.06%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "98.57%",
+    "uptime": "98.56%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "90.95%",
+    "uptimeYear": "98.56%",
     "time": 980,
     "timeDay": 52,
-    "timeWeek": 715,
+    "timeWeek": 692,
     "timeMonth": 936,
     "timeYear": 980,
     "dailyMinutesDown": {
@@ -826,7 +826,7 @@
       "2026-08-29": 212,
       "2026-09-02": 200,
       "2026-09-03": 94,
-      "2026-09-06": 2
+      "2026-09-06": 50
     }
   },
   {
@@ -835,14 +835,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/joo-m-logistics.com.ico",
     "slug": "joo-and-m-logistics-egy",
     "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "91.46%",
-    "uptimeYear": "98.57%",
+    "uptime": "98.56%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "98.56%",
     "time": 1094,
     "timeDay": 55,
-    "timeWeek": 1539,
+    "timeWeek": 1515,
     "timeMonth": 1643,
     "timeYear": 1094,
     "dailyMinutesDown": {
@@ -881,7 +881,7 @@
       "2026-08-29": 207,
       "2026-09-02": 195,
       "2026-09-03": 90,
-      "2026-09-06": 2
+      "2026-09-06": 50
     }
   },
   {
@@ -890,14 +890,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/islam.joo-m-logistics.com.ico",
     "slug": "islam-joo-and-m-logistics-egy",
     "status": "down",
-    "uptime": "98.66%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "92.12%",
-    "uptimeYear": "98.66%",
+    "uptime": "98.65%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "92.01%",
+    "uptimeYear": "98.65%",
     "time": 850,
     "timeDay": 53,
-    "timeWeek": 1265,
+    "timeWeek": 1279,
     "timeMonth": 1167,
     "timeYear": 850,
     "dailyMinutesDown": {
@@ -936,7 +936,7 @@
       "2026-08-29": 202,
       "2026-09-02": 190,
       "2026-09-03": 85,
-      "2026-09-06": 2
+      "2026-09-06": 50
     }
   },
   {
@@ -952,7 +952,7 @@
     "uptimeYear": "95.54%",
     "time": 819,
     "timeDay": 995,
-    "timeWeek": 1156,
+    "timeWeek": 1116,
     "timeMonth": 938,
     "timeYear": 819,
     "dailyMinutesDown": {
@@ -1035,7 +1035,7 @@
     "uptimeYear": "99.95%",
     "time": 788,
     "timeDay": 731,
-    "timeWeek": 1136,
+    "timeWeek": 912,
     "timeMonth": 967,
     "timeYear": 788,
     "dailyMinutesDown": {
@@ -1055,7 +1055,7 @@
     "uptimeYear": "99.93%",
     "time": 1010,
     "timeDay": 1037,
-    "timeWeek": 1314,
+    "timeWeek": 1320,
     "timeMonth": 1290,
     "timeYear": 1010,
     "dailyMinutesDown": {
@@ -1076,7 +1076,7 @@
     "uptimeYear": "99.43%",
     "time": 910,
     "timeDay": 568,
-    "timeWeek": 856,
+    "timeWeek": 862,
     "timeMonth": 822,
     "timeYear": 910,
     "dailyMinutesDown": {
@@ -1107,11 +1107,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qasimidevelop.com.ico",
     "slug": "qasimi-realestate-develop-egy",
     "status": "down",
-    "uptime": "74.94%",
+    "uptime": "74.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.94%",
+    "uptimeYear": "74.93%",
     "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1168,7 +1168,7 @@
       "2026-06-23": 5,
       "2026-06-25": 131,
       "2026-06-26": 63,
-      "2026-09-06": 45,
+      "2026-09-06": 92,
       "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
@@ -1255,7 +1255,7 @@
     "uptimeYear": "98.54%",
     "time": 1393,
     "timeDay": 1103,
-    "timeWeek": 1507,
+    "timeWeek": 1472,
     "timeMonth": 1934,
     "timeYear": 1393,
     "dailyMinutesDown": {
@@ -1311,7 +1311,7 @@
     "uptimeYear": "99.75%",
     "time": 1512,
     "timeDay": 1551,
-    "timeWeek": 1744,
+    "timeWeek": 1739,
     "timeMonth": 1734,
     "timeYear": 1512,
     "dailyMinutesDown": {
@@ -1337,14 +1337,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/perfectlgs.com.ico",
     "slug": "perfect-logistics-egy-prod",
     "status": "down",
-    "uptime": "98.48%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "92.91%",
-    "uptimeYear": "98.48%",
+    "uptime": "98.47%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "92.80%",
+    "uptimeYear": "98.47%",
     "time": 1140,
     "timeDay": 52,
-    "timeWeek": 3763,
+    "timeWeek": 4047,
     "timeMonth": 1844,
     "timeYear": 1140,
     "dailyMinutesDown": {
@@ -1383,7 +1383,7 @@
       "2026-08-29": 198,
       "2026-09-02": 185,
       "2026-09-03": 80,
-      "2026-09-06": 2
+      "2026-09-06": 49
     }
   },
   {
@@ -1392,14 +1392,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/savemyschool.lu.ico",
     "slug": "save-my-school-prod",
     "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "97.45%",
-    "uptimeMonth": "94.22%",
-    "uptimeYear": "98.42%",
+    "uptime": "98.41%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "96.97%",
+    "uptimeMonth": "94.11%",
+    "uptimeYear": "98.41%",
     "time": 996,
     "timeDay": 59,
-    "timeWeek": 841,
+    "timeWeek": 852,
     "timeMonth": 910,
     "timeYear": 996,
     "dailyMinutesDown": {
@@ -1441,7 +1441,7 @@
       "2026-08-29": 193,
       "2026-09-02": 181,
       "2026-09-03": 75,
-      "2026-09-06": 2
+      "2026-09-06": 49
     }
   }
 ]
